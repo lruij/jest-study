@@ -1,0 +1,15 @@
+{
+  "name": "jest-study",
+  "version": "1.0.0",
+  "description": "自动化测试框架 jest 学习，从入门到进阶的过程笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
