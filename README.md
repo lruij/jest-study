@@ -58,22 +58,22 @@ mock module
 
 
 **TDD**
-
+> Test Driven Development 测试驱动开发
 
 
 
 **BDD**
-
+> Behavior Driven Development 行为驱动开发
 
 
 
 **单元测试**
-
+> 单个模块进行测试
 
 
 
 **集成测试**
-
+> 一个以上关联模块进行测试
 
 
 
