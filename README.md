@@ -38,8 +38,23 @@
 - [x] .resolves/.rejects
 
 
-**难点进阶**
+**难点进阶 (mock.test.js)**
 
+mock 属性
+- [x] calls 二维数组 调用集合
+- [x] calls.length 调用次数
+- [x] results 对象数组 格式 {type, value} 结果集合
+- [x] contexts 上下文集合
+- [x] instances 实例集合
+- [x] lastCall 最后一次调用集合
+
+mock 返回值
+- [x]  mockReturnValueOnce 返回值自定义 可叠加
+
+mock axios
+- [x] mockResolvedValue 返回值自定义
+
+mock module
 
 
 **TDD**
